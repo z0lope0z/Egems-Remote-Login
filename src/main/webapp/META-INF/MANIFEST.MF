@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: antlr-2.7.6.jar aopalliance-1.0.jar arca-bom.jar arca-serv
+ ices.jar asm-1.5.3.jar asm-all-2.2.3.jar aspectjrt-1.5.4.jar aspectjw
+ eaver-1.6.0.jar c3p0-0.9.1.2.jar cglib-nodep-2.1_3.jar commons-beanut
+ ils-1.7.0.jar commons-collections-3.1.jar commons-lang-2.3.jar common
+ s-logging-1.1.1.jar displaytag-1.1.1.jar dom4j-1.6.1.jar ehcache-1.2.
+ 3.jar hibernate-3.2.6.ga.jar itext-1.3.jar jcl104-over-slf4j-1.4.2.ja
+ r jsr250-api-1.0.jar jstl-1.1.2.jar jta-1.0.1B.jar log4j-1.2.12.jar o
+ jdbc14-10.2.0.1.0.jar slf4j-api-1.4.2.jar slf4j-log4j12-1.4.2.jar spr
+ ing-2.5.5.jar spring-aop-2.5.5.jar spring-aspects-2.5.5.jar spring-be
+ ans-2.5.5.jar spring-context-2.5.5.jar spring-context-support-2.5.5.j
+ ar spring-core-2.5.5.jar spring-web-2.5.5.jar spring-webmvc-2.5.5.jar
+  standard-1.1.2.jar tragsa-aop-enforcement-1.0.jar
+
